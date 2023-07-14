@@ -1,0 +1,10 @@
+/* 引入uicss库 */
+@import "./colorui/main.wxss";
+@import "./colorui/icon.wxss";
+@import "./colorui/animation.wxss";
+@import "./reset.wxss";
+
+/* 存储自定义变量 */
+page {
+  --theme: #5DEFE5;
+}
